@@ -1,0 +1,127 @@
+ .sub file Subbasin: 45 4/24/2014 12:00:00 AM ArcSWAT 2012.10_0.14
+     1524.524089    | SUB_KM : Subbasin area [km2]
+
+Climate in subbasin
+       35.385842    | LATITUDE : Latitude of subbasin [degrees]
+          417.77    | ELEV : Elevation of subbasin [m]
+              27    | IRGAGE: precip gage data used in subbasin
+              27    | ITGAGE: temp gage data used in subbasin
+              27    | ISGAGE: solar radiation gage data used in subbasin
+               0    | IHGAGE: relative humidity gage data used in subbasin
+               0    | IWGAGE: wind speed gage data used in subbasin
+000450000.wgn       | WGNFILE: name of weather generator data file
+               1    | FCST_REG: Region number used to assign forecast data to the subbasin
+Elevation Bands
+| ELEVB: Elevation at center of elevation bands [m]
+   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000
+| ELEVB_FR: Fraction of subbasin area within elevation band
+   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000
+| SNOEB: Initial snow water content in elevation band [mm]
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+           0.000    | PLAPS : Precipitation lapse rate [mm/km]
+           0.000    | TLAPS : Temperature lapse rate [°C/km]
+           0.000    | SNO_SUB : Initial snow water content [mm]
+Tributary Channels
+         167.693    | CH_L1 : Longest tributary channel length [km]
+           0.004    | CH_S1 : Average slope of tributary channel [m/m]
+         104.826    | CH_W1 : Average width of tributary channel [m]
+           0.000    | CH_K1 : Effective hydraulic conductivity in tributary channel [mm/hr]
+           0.014    | CH_N1 : Manning's "n" value for the tributary channels
+Impoundments
+000450000.pnd       | PNDFILE: name of subbasin impoundment file
+Consumptive Water Use
+000450000.wus       | WUSFILE: name of subbasin water use file
+Climate Change
+         330.000    | CO2 : Carbon dioxide concentration [ppmv]
+| RFINC:  Climate change monthly rainfall adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| RFINC:  Climate change monthly rainfall adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| TMPINC: Climate change monthly temperature adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| TMPINC: Climate change monthly temperature adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| RADINC: Climate change monthly radiation adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| RADINC: Climate change monthly radiation adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| HUMINC: Climate change monthly humidity adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| HUMINC: Climate change monthly humidity adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| HRU data
+              66    | HRUTOT : Total number of HRUs modeled in subbasin
+
+HRU: Depressional Storage/Pothole
+
+Floodplain
+
+HRU: Riparian
+
+HRU: General
+000450001.hru000450001.mgt000450001.sol000450001.chm 000450001.gw             000450001.sep
+000450002.hru000450002.mgt000450002.sol000450002.chm 000450002.gw             000450002.sep
+000450003.hru000450003.mgt000450003.sol000450003.chm 000450003.gw             000450003.sep
+000450004.hru000450004.mgt000450004.sol000450004.chm 000450004.gw             000450004.sep
+000450005.hru000450005.mgt000450005.sol000450005.chm 000450005.gw             000450005.sep
+000450006.hru000450006.mgt000450006.sol000450006.chm 000450006.gw             000450006.sep
+000450007.hru000450007.mgt000450007.sol000450007.chm 000450007.gw             000450007.sep
+000450008.hru000450008.mgt000450008.sol000450008.chm 000450008.gw             000450008.sep
+000450009.hru000450009.mgt000450009.sol000450009.chm 000450009.gw             000450009.sep
+000450010.hru000450010.mgt000450010.sol000450010.chm 000450010.gw             000450010.sep
+000450011.hru000450011.mgt000450011.sol000450011.chm 000450011.gw             000450011.sep
+000450012.hru000450012.mgt000450012.sol000450012.chm 000450012.gw             000450012.sep
+000450013.hru000450013.mgt000450013.sol000450013.chm 000450013.gw             000450013.sep
+000450014.hru000450014.mgt000450014.sol000450014.chm 000450014.gw             000450014.sep
+000450015.hru000450015.mgt000450015.sol000450015.chm 000450015.gw             000450015.sep
+000450016.hru000450016.mgt000450016.sol000450016.chm 000450016.gw             000450016.sep
+000450017.hru000450017.mgt000450017.sol000450017.chm 000450017.gw             000450017.sep
+000450018.hru000450018.mgt000450018.sol000450018.chm 000450018.gw             000450018.sep
+000450019.hru000450019.mgt000450019.sol000450019.chm 000450019.gw             000450019.sep
+000450020.hru000450020.mgt000450020.sol000450020.chm 000450020.gw             000450020.sep
+000450021.hru000450021.mgt000450021.sol000450021.chm 000450021.gw             000450021.sep
+000450022.hru000450022.mgt000450022.sol000450022.chm 000450022.gw             000450022.sep
+000450023.hru000450023.mgt000450023.sol000450023.chm 000450023.gw             000450023.sep
+000450024.hru000450024.mgt000450024.sol000450024.chm 000450024.gw             000450024.sep
+000450025.hru000450025.mgt000450025.sol000450025.chm 000450025.gw             000450025.sep
+000450026.hru000450026.mgt000450026.sol000450026.chm 000450026.gw             000450026.sep
+000450027.hru000450027.mgt000450027.sol000450027.chm 000450027.gw             000450027.sep
+000450028.hru000450028.mgt000450028.sol000450028.chm 000450028.gw             000450028.sep
+000450029.hru000450029.mgt000450029.sol000450029.chm 000450029.gw             000450029.sep
+000450030.hru000450030.mgt000450030.sol000450030.chm 000450030.gw             000450030.sep
+000450031.hru000450031.mgt000450031.sol000450031.chm 000450031.gw             000450031.sep
+000450032.hru000450032.mgt000450032.sol000450032.chm 000450032.gw             000450032.sep
+000450033.hru000450033.mgt000450033.sol000450033.chm 000450033.gw             000450033.sep
+000450034.hru000450034.mgt000450034.sol000450034.chm 000450034.gw             000450034.sep
+000450035.hru000450035.mgt000450035.sol000450035.chm 000450035.gw             000450035.sep
+000450036.hru000450036.mgt000450036.sol000450036.chm 000450036.gw             000450036.sep
+000450037.hru000450037.mgt000450037.sol000450037.chm 000450037.gw             000450037.sep
+000450038.hru000450038.mgt000450038.sol000450038.chm 000450038.gw             000450038.sep
+000450039.hru000450039.mgt000450039.sol000450039.chm 000450039.gw             000450039.sep
+000450040.hru000450040.mgt000450040.sol000450040.chm 000450040.gw             000450040.sep
+000450041.hru000450041.mgt000450041.sol000450041.chm 000450041.gw             000450041.sep
+000450042.hru000450042.mgt000450042.sol000450042.chm 000450042.gw             000450042.sep
+000450043.hru000450043.mgt000450043.sol000450043.chm 000450043.gw             000450043.sep
+000450044.hru000450044.mgt000450044.sol000450044.chm 000450044.gw             000450044.sep
+000450045.hru000450045.mgt000450045.sol000450045.chm 000450045.gw             000450045.sep
+000450046.hru000450046.mgt000450046.sol000450046.chm 000450046.gw             000450046.sep
+000450047.hru000450047.mgt000450047.sol000450047.chm 000450047.gw             000450047.sep
+000450048.hru000450048.mgt000450048.sol000450048.chm 000450048.gw             000450048.sep
+000450049.hru000450049.mgt000450049.sol000450049.chm 000450049.gw             000450049.sep
+000450050.hru000450050.mgt000450050.sol000450050.chm 000450050.gw             000450050.sep
+000450051.hru000450051.mgt000450051.sol000450051.chm 000450051.gw             000450051.sep
+000450052.hru000450052.mgt000450052.sol000450052.chm 000450052.gw             000450052.sep
+000450053.hru000450053.mgt000450053.sol000450053.chm 000450053.gw             000450053.sep
+000450054.hru000450054.mgt000450054.sol000450054.chm 000450054.gw             000450054.sep
+000450055.hru000450055.mgt000450055.sol000450055.chm 000450055.gw             000450055.sep
+000450056.hru000450056.mgt000450056.sol000450056.chm 000450056.gw             000450056.sep
+000450057.hru000450057.mgt000450057.sol000450057.chm 000450057.gw             000450057.sep
+000450058.hru000450058.mgt000450058.sol000450058.chm 000450058.gw             000450058.sep
+000450059.hru000450059.mgt000450059.sol000450059.chm 000450059.gw             000450059.sep
+000450060.hru000450060.mgt000450060.sol000450060.chm 000450060.gw             000450060.sep
+000450061.hru000450061.mgt000450061.sol000450061.chm 000450061.gw             000450061.sep
+000450062.hru000450062.mgt000450062.sol000450062.chm 000450062.gw             000450062.sep
+000450063.hru000450063.mgt000450063.sol000450063.chm 000450063.gw             000450063.sep
+000450064.hru000450064.mgt000450064.sol000450064.chm 000450064.gw             000450064.sep
+000450065.hru000450065.mgt000450065.sol000450065.chm 000450065.gw             000450065.sep
+000450066.hru000450066.mgt000450066.sol000450066.chm 000450066.gw             000450066.sep
